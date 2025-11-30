@@ -1,3 +1,5 @@
+The agent app streamlines event workflow. Users use it to manage the process from creating event post, ticketing, to after-event recap.
+
 Access the agent at: https://event-agent-service-139431326628.us-central1.run.app
 
 Local Run:
